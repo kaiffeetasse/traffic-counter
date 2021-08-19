@@ -1,0 +1,5 @@
+python-telegram-bot
+python-dotenv
+opencv-python~=4.5.3.56
+numpy~=1.19.2
+prometheus_client~=0.8.0
